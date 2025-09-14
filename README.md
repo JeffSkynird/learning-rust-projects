@@ -14,4 +14,7 @@ This repository is a personal space to practice Rust by building small, focused 
 - 🔎 mini-grep: A tiny grep-like text searcher supporting regex, recursive search, glob filtering, line numbers, whole-word matches, ANSI color, and .gitignore awareness.
   - 📂 Path: `./mini-grep`
 
+ - 📝 rustic-notes: A tiny notes CLI that stores notes in JSON/TOML/YAML with `serde`, supports tags, search, delete/edit, and can open your editor (`$VISUAL`/`$EDITOR`) for rich edits.
+   - 📂 Path: `./rustic-notes`
+
 📘 Each project will get its own dedicated README with usage details and examples over time. This top-level README stays brief and points to the individual projects.
