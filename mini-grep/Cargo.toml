@@ -1,0 +1,12 @@
+[package]
+name = "mini-grep"
+version = "0.1.0"
+edition = "2021"
+description = "Text searcher (mini grep) width regex, recursive, simple"
+license = "MIT"
+
+[dependencies]
+regex = "1"
+walkdir = "2"
+clap = { version = "4", features = ["derive"] }
+ignore = "0.4"
